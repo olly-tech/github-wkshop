@@ -15,3 +15,7 @@ name = input("What is your name?")
 console.log(name)
 ```
 ### This is a sub sub heading 
+
+What the project does?
+
+Why is it useful?
